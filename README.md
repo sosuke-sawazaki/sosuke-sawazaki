@@ -1,32 +1,3 @@
-# Hi, I'm Sosuke
+計算論的認知科学 / 認知アーキテクチャ を学んでいます。 古典的な論文の主要な結果を自分の手で再現し、「そのモデルで何が検証できるのか」を言葉にすることを目標にしています。
 
-I'm an Information Engineering student interested in Artificial Intelligence and Computational Neuroscience.
-
-## Interests
-
-- Deep Learning
-- Brain-inspired AI
-- Machine Learning
-- Data Analysis
-
-## Skills
-
-- Python
-- NumPy
-- PyTorch
-- Java
-- React
-
-## Projects
-
-### Neural Network from Scratch
-Implementing neural networks from scratch using Python and NumPy.
-
-### u-note
-A university student support application for managing assignments and documents.
-
-## Currently Learning
-
-- Deep Learning
-- Computational Neuroscience
-- AI research methods
+Reproducing key results from computational cognitive science papers — reinforcement learning, Bayesian inference, neural dynamics, and memory — and stating clearly what each model can test.
